@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PraveenM
+- 👋 Hi, I’m Praveen M
 - 👀 I’m interested in ... Software Developing/Flight Designing
 - 🌱 I’m currently learning ... Tensorflow
 - 📫 How to reach me ...praveengalaxy03@gmail.com
